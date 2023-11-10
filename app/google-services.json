@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445951721539",
+    "project_id": "myhanoiver1",
+    "storage_bucket": "myhanoiver1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445951721539:android:129cd7c125a5523992d4f6",
+        "android_client_info": {
+          "package_name": "com.example.myhanoiver1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW2GaRiuFCJV2T9UiVpCGm6WKtppV2C04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
